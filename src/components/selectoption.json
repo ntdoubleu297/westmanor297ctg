@@ -1,0 +1,27 @@
+[
+    {
+        "label": "Find Mortgage",
+        "value": "FM",
+        "resultLabel": "Mortgage"
+    },
+    {
+        "label": "Find Monthly Payment",
+        "value": "FMP",
+        "resultLabel": "Monthly Payment"
+    },
+    {
+        "label": "Find Interest Rate",
+        "value": "FIR",
+        "resultLabel": "Interest Rate"
+    },
+    {
+        "label": "Find Loan Amount",
+        "value": "FLA",
+        "resultLabel": "Loan Amount"
+    },
+    {
+        "label": "Find Number of Months",
+        "value": "FNM"
+    }    
+    
+]
